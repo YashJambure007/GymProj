@@ -1,0 +1,1546 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    text-decoration: none;
+    font-family: "poppins",sans-serif;
+    list-style: none; 
+    
+}
+.container{
+    width: 100%;
+    height: 100%;
+}
+.gymheader{
+    border-radius: none;
+    background:rgba(41, 40, 40, 0.7)url("./3GymTemplateAssii-3/img/carousel-2.jpg");
+    background-size: cover;
+    background-blend-mode: darken;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 37rem;
+    color: white;
+    font-weight: bold;
+    height: 32rem;
+}
+.gymheading{
+    text-align: center;
+    font-weight: bold;
+}
+.mainheading{
+    font-size: 2.5rem;
+    padding-top: 1rem;
+}
+.navlists{
+    background-color: black;
+    margin: 0.6rem;
+    font-size: 1.1rem;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.navlist2{
+    margin-top: 0.5rem;
+}
+.navlist1{
+    color: red;
+}
+.content{
+    text-align: center;
+    margin-top: 7rem;
+}
+.content h3{
+    color: red;
+}
+.content h1{
+    margin-top: 1rem;
+    margin-bottom: 1.5rem;
+    font-size: 2.4rem;
+}
+.content a{
+    font-size: 0.8rem;
+    border: 1px solid white;
+    padding: 0.5rem 1rem;  
+}
+
+.building{
+    width: 95%;
+}
+.leftimg{
+    height: 9.8rem;
+    width: 8rem;
+    background:url("./3GymTemplateAssii-3/img/Bodybuilder-03-512.webp");
+    background-size: cover;
+    background-blend-mode: darken;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: -5rem;
+    margin-left: 1.3rem;
+    
+}
+.leftbox1{
+    margin-left: 1.5rem;
+    margin-top: 5rem;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    color: white;
+    background: linear-gradient(147deg, #c4b29a 0%, #a70101 62%);
+    text-align: right;
+    height: 18rem;
+}
+.leftbox1 h1{
+    padding-top: 2rem;
+}
+.leftbox1 p{
+   margin-top: 1rem;
+   margin-bottom: 2rem;
+}
+.leftbox1 a{
+    border: 1px solid white;
+    color: white;
+    padding: 0.5rem 1rem;
+}
+
+.rightimg{
+    height: 5rem;
+    width: 6rem;
+    background:url("./3GymTemplateAssii-3/img/strength.png");
+    background-size: cover;
+    background-blend-mode: color-burn;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: -3.5rem;
+    margin-left: 11rem;
+    
+}
+.rightbox1{
+    margin-left: 1.5rem;
+    margin-top: 2rem;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    color: white;
+    background-image: linear-gradient(160deg, #000000 48%, #415955 81%);
+    text-align: left;
+    height: 18rem;
+}
+.rightbox1 h1{
+    padding-top: 2rem;
+}
+.rightbox1 p{
+   margin-top: 1rem;
+   margin-bottom: 2rem;
+}
+.rightbox1 a{
+    border: 1px solid white;
+    color: white;
+    padding: 0.5rem 1rem;
+}
+/* header and building end */
+
+
+
+.experience{
+    margin-left: 1rem;
+    margin-right: 1rem;
+    width: 100%;
+    margin-top: 37rem;
+}
+.leftbox2 img{
+    width: 20rem;
+}
+.rightbox2 h1{
+    margin-top: 1rem;
+}
+.rightbox2 p{
+    color: rgb(131, 116, 116);
+    margin-top: 1rem;
+    width: 20rem;
+}
+
+.left1 .img1{ 
+    margin-top: 1rem;
+    margin-left: 6rem;
+    width: 3rem;
+    height: 4rem;
+}
+.left1 h3{
+    font-size: 1.5rem;
+    margin-top: 1rem;
+}
+.left1 p{
+    color:  rgb(131, 116, 116);
+}
+
+.right1 .img2{
+    margin-left: 3rem;
+    width: 4rem;
+    height: 4rem;
+}
+.right1 p{
+    color:  rgb(131, 116, 116);
+    margin-bottom: 1.5rem;
+}
+.right1 h3{
+    font-size: 1.5rem;
+    margin-top: 1rem;
+}
+
+
+.rightbox2 a{
+    color: rgba(219, 3, 3, 0.877);
+    border: 1px solid rgba(219, 3, 3, 0.877);
+    padding: 0.6rem 1.4rem;
+}
+/* experience ends */
+
+
+
+
+.pwn{
+    margin-top: 2rem;
+    color: white;
+}
+.leftbox3{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    display: flex;
+    background-image: linear-gradient(160deg, #000000 48%, #415955 81%);
+}
+.leftbox3 img{
+    margin-left: 0.5rem;
+    margin-top: 3rem;
+    background:url("./3GymTemplateAssii-3/img/strongman.png");
+    background-size: cover;
+    background-blend-mode: darken;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.right2{
+    margin-left: 0.5rem;
+}
+.right2 h1{
+    margin-top: 1rem;
+}
+.right2 p{
+    margin-top: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.middle{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    display: flex;
+    background: linear-gradient(147deg, #c4b29a 0%, #a70101 62%);
+}
+.middle img{
+    width: 3.5rem;
+    height: 3rem;
+    margin-left: 0.5rem;
+    margin-top: 3rem;
+    background:url("./3GymTemplateAssii-3/img/hand.png");
+    background-size: cover;
+    background-blend-mode: darken;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.rightbox3{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    display: flex;
+    background-image: linear-gradient(160deg, #000000 48%, #415955 81%);
+}
+.rightbox3 img{
+    width: 3.5rem;
+    height: 3rem;
+    margin-left: 0.5rem;
+    margin-top: 3rem;
+    background:url("./3GymTemplateAssii-3/img/hand.png");
+    background-size: cover;
+    background-blend-mode: darken;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+/* pwn ends */
+
+
+
+
+.benifits{
+    width: 100%;
+    margin-top: 3rem;
+    margin-left: 1rem;
+}
+.top h3{
+    font-weight: bold;
+    text-align: center;
+    color: rgba(219, 3, 3, 0.877);
+}
+.top h1{
+    font-size: 2.2rem;
+    margin-top: 0.5rem;
+    text-align: center;
+}
+.left img{
+    margin-top: 1rem;
+    width: 20rem;
+    height: 15rem;
+}
+.left3{
+    display: flex;
+}
+.left3 img{
+    color: white;
+    background: linear-gradient(147deg, #c4b29a 0%,  #a70101 62%);
+    margin-top: 1rem;
+    width: 4rem;
+    height: 3rem;
+    padding: 0.5rem;
+}
+.right3 h3{
+    margin-top: 1rem;
+    font-size: 1.4rem;
+    font-weight: bold;
+    margin-left: 0.5rem;
+}
+.right3 p{
+    color: rgb(131, 116, 116);
+    margin-left: 0.5rem;
+    width: 13rem;
+}
+/* benefits end */
+
+
+
+
+
+.newsletter{
+    text-align: center;
+    width: 100%;
+    margin-top: 2rem;
+    color: white;
+    width: 100%;
+    height: auto;
+    background:rgba(0,0,0,0.7)url("./3GymTemplateAssii-3/img/bg.jpg");
+    background-size: cover;
+    background-blend-mode: darken;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.info h1{
+    margin-top: 2rem;
+}
+.info p{
+    margin-top: 1rem;
+}
+.info input{
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    padding: 0.5rem 1rem; 
+}
+.info button{
+    background-color: rgba(219, 3, 3, 0.877);
+    margin-top: 1rem;
+    padding: 0.5rem 1rem; 
+    margin-left: -0.3rem;
+}
+/* newsletter ends */
+
+
+
+
+.timetable{
+    width: 100%;
+    margin-left: 0.1rem;
+    margin-top: 2rem;
+}
+.top2{
+    text-align: center;
+}
+.top2 h3{
+    font-weight: bold;
+    color: rgba(219, 3, 3, 0.877);
+}
+.top2 h1{
+    margin-top: 0.5rem;
+    margin-bottom: 1rem;
+}
+.but1{
+    font-weight: 500;
+    color: white;
+    padding: 0.5rem 1rem;
+    background-color: rgba(219, 3, 3, 0.877);
+}
+.but2{
+    font-weight: 500;
+    color: rgba(219, 3, 3, 0.877);
+}
+.but3{
+    margin-left: 0.5rem;
+    font-weight: 500;
+    color: rgba(219, 3, 3, 0.877);
+}
+.but4{
+    margin-left: 0.5rem;
+    font-weight: 500;
+    color: rgba(219, 3, 3, 0.877);
+}
+
+.maintable1{
+    text-align: center;
+    width: 99%;
+    border-collapse: collapse;
+    margin-top: 2rem;
+}
+.maintable1 th{
+    background-color: black;
+    color: white;
+    padding: 6px;
+}
+.maintable1 p{
+    color: rgb(131, 116, 116);
+}
+.maintable1 td{
+    font-weight: 600;
+}
+
+.maintable2{
+    text-align: center;
+    width: 99%;
+    border-collapse: collapse;
+    margin-top: 2rem;
+}
+.maintable2 th{
+    background-color: black;
+    color: white; 
+    padding: 8px;
+}
+.maintable2 p{
+    color: rgb(131, 116, 116);
+}
+.maintable2 td{
+    font-weight: 600;
+}
+/* table ends */
+
+
+
+
+.BMI{
+    font-weight: 500;
+    margin-top: 2rem;
+    width: 100%;
+}
+.leftbox4{
+    color: white;
+    background:rgba(0,0,0,0.7)url("./3GymTemplateAssii-3/img/carousel-1.jpg");
+    background-size: cover;
+    background-blend-mode: darken;
+    background-repeat: no-repeat;
+    background-position: top;
+
+}
+.leftbox4 h3{
+    color:  rgba(219, 3, 3, 0.877);
+    padding-top: 3rem;
+    padding-left: 2rem;
+}
+.leftbox4 h1{
+    padding-top: 1rem;
+    padding-left: 2rem;
+}
+.leftbox4 p{
+    padding-top: 1rem;
+    padding-left: 2rem;
+    padding-bottom: 3rem;
+}
+
+.rightbox4{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.rightbox4 h2{
+    padding-top: 3rem;
+    padding-left: 1rem;
+    padding-bottom: 1rem;
+}
+.rightbox4 input{
+    color: #999393;
+    background-color:  rgb(66, 61, 61);
+    padding: 0.5rem 0.3rem;
+}
+.inp1{
+    margin-bottom: 0.7rem;
+}
+.inp2{
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.rightright button{
+    border: 1px solid white;
+    color: white;
+    background-color:  rgb(66, 61, 61);
+    margin-top: 0.8rem;
+    padding: 0.5rem 6.8rem;
+    margin-bottom: 3rem;
+}
+/* BMI ends */
+
+
+
+
+.trainers{
+    width: 100%;
+    margin-top: 2rem;
+    margin-left: 1rem;
+    font-weight: bold;
+}
+.top3 h3{
+    color: rgba(219, 3, 3, 0.877);
+    text-align: center;
+}
+.top3 h1{
+    text-align: center;
+}
+.topbox1 img{
+    margin-top: 1rem;
+    width: 20.5rem;
+    height: 20rem;
+}
+.botbox1{
+    width: 20.5rem;
+    background-color: black;
+    text-align: center;
+    padding: 1rem 0px;
+    margin-top: -0.3rem;
+    margin-bottom: 1rem;
+}
+.botbox1 h3{
+    color: rgba(219, 3, 3, 0.877);
+}
+.botbox1 p{
+    padding-top: 0.5rem;
+    color: white;
+}
+/* trainers  end*/
+
+
+
+
+.client{
+    width: 100%;
+    margin-top: 2rem;   
+}
+.leftbox5{
+    background-color: black;
+    padding-left: 1rem;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+.lsrs{
+    display: flex;
+}
+.leftside img{
+    border-radius: 100%;
+    width: 4rem;
+    height: 4rem;
+}
+.rightside h3{
+    font-weight: 700;
+    padding-top: 0.5rem;
+    padding-left: 1rem;
+    color: rgba(219, 3, 3, 0.877);
+}
+.rightside p{
+    font-weight: 700;
+    padding-top: 0.5rem;
+    padding-left: 1rem;
+    color: white;
+}
+
+.leftbox5 .mainpara{
+    background-color: rgb(61, 60, 60);
+    width: 16rem;
+    margin-top: 0.8rem;
+    color: white;
+    border: 1px solid white;
+    padding: 1rem 1rem;
+}
+.devideline{
+    margin-left: 7rem;
+}
+.devideline a{
+    font-size: 0.1px;
+    border: 1px solid rgb(77, 76, 76);
+    padding-right: 1.7rem;
+}
+.devideline button{
+    font-size: 0.1px;
+    border: 1px solid white;
+    padding-right: 1.7rem;
+}
+
+.rightbox5{
+    padding-left: 1rem;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    background:rgba(0,0,0,0.7)url("./3GymTemplateAssii-3/img/carousel-2.jpg");
+    background-size: cover;
+    background-blend-mode: darken;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.rightbox5 h3{
+    font-weight: 700;
+    color: rgba(219, 3, 3, 0.877);
+}
+.rightbox5 h1{
+    padding-top: 0.6rem;
+    color: white;
+}
+.rightbox5 p{
+    width: 18rem;
+    padding-top: 0.6rem;
+    color: white;
+}
+/* client ends */
+
+
+
+
+.blog{
+    width: 100%;
+    margin-top: 2rem;
+    
+}
+.top4{
+    text-align: center;
+}
+.top4 h3{
+    font-size: 1.5rem;
+    color: rgba(219, 3, 3, 0.877);
+}
+.top4 h1{
+    margin-top: 0.6rem;
+}
+.leftbox6 img{
+    margin-top: 1rem;
+    width: 20rem;
+}
+.leftside1{
+    text-align: center;
+    color: white;
+    border-radius: 100%;
+    background-color:  rgba(219, 3, 3, 0.877);
+    width: 3.4rem;
+    height: 4rem;
+}
+.leftside1 p{
+   padding-top: 0.4rem;
+}
+.lsrs1{
+    display: flex;
+}
+.rightside1{
+    margin-left: 0.3rem;
+}
+.rightside1 h3{
+    font-size: 1.21rem;
+}
+.rightside1 i{
+    margin-top: 0.5rem;
+    font-size: 0.8rem;
+}
+.rightside1 span{
+    font-weight: 100;
+}
+.botpara{
+    margin-top: 0.7rem;
+    width: 20rem;
+    color: rgb(131, 116, 116);
+}
+.leftbox6 button{
+    color:  rgba(219, 3, 3, 0.877);
+    border: 3px solid  rgba(219, 3, 3, 0.877);
+    background-color: white;
+    padding: 0.5rem 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.leftbox6 button i{
+    color:  rgba(219, 3, 3, 0.877);
+}
+
+
+.rightbox6 img{
+    margin-top: 1rem;
+    width: 20rem;
+}
+.rightbox6 button{
+    color:  rgba(219, 3, 3, 0.877);
+    border: 3px solid  rgba(219, 3, 3, 0.877);
+    background-color: white;
+    padding: 0.5rem 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.rightbox6 button i{
+    color:  rgba(219, 3, 3, 0.877);
+}
+
+
+
+
+
+.footer{
+    width: 100%;
+    height: 100%;
+    border: 1px solid black;
+    margin-top: 3rem;
+    padding-bottom: 9rem;
+    padding-top: 3rem;
+    background:rgba(0,0,0,0.7)url("./3GymTemplateAssii-3/img/bg.jpg");
+    background-size: cover;
+    background-blend-mode: darken;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+.content1{
+    color: white;
+    margin-top: 1.2rem;
+    margin-left: 2rem;
+}
+.content1 h3{
+    color:  rgba(219, 3, 3, 0.877);
+}
+.content1 p{
+    margin-top: 1rem;
+}
+.content1-1{
+    display: flex;
+}
+.content1-1 i{
+    margin-top: 1rem;
+    color:  white;
+}
+.content1-1 p{
+    margin-left: 0.5rem;
+}
+.content1 .fa-twitter{
+    margin-top: 1rem;
+    border: 1px solid white;
+    padding: 0.6rem;
+    color: white;
+    border-radius: 100%;
+}
+.content1 .fa-facebook-f{
+    margin-top: 1rem;
+    border: 1px solid white;
+    padding: 0.6rem;
+    color: white;
+    border-radius: 100%;
+}
+.content1 .fa-linkedin-in{
+    margin-top: 1rem;
+    border: 1px solid white;
+    padding: 0.6rem;
+    color: white;
+    border-radius: 100%;
+}
+.content1 .fa-instagram{
+    margin-top: 1rem;
+    border: 1px solid white;
+    padding: 0.6rem;
+    color: white;
+    border-radius: 100%;
+}
+
+.content2{
+    color: white;
+    margin-top: 1.2rem;
+    margin-left: 2rem;
+}
+.content2 h3{
+    color:  rgba(219, 3, 3, 0.877);
+}
+.content2 i{
+    color: white;
+    margin: 0.4rem;
+}
+
+.content3{
+    color: white;
+    margin-top: 1.2rem;
+    margin-left: 2rem;
+}
+.content3 h3{
+    color:  rgba(219, 3, 3, 0.877);
+}
+.content3 i{
+    color: white;
+    margin: 0.4rem;
+}
+
+.content4{
+    color: white;
+    margin-top: 1.2rem;
+    margin-left: 2rem;
+}
+.content4 h3{
+    color:  rgba(219, 3, 3, 0.877);
+}
+.content4 h4{
+    margin-top: 1rem;
+}
+.content4-1{
+    display: flex;
+}
+.content4-1 i{
+    margin-top: 1rem;
+    color: white;
+}
+.content4-1 p{
+    margin-left: 0.5rem;
+    
+}
+
+
+.hrline hr{
+    width: 75%;
+    margin: -8rem auto;
+    border: none;
+    height: 3px;
+    border-radius: 2px;
+    background-color: #444343;
+}
+
+
+
+footer{
+    margin-top: 10rem;
+    text-align: center;
+    display: flex;
+    color:white;
+}
+footer span{
+    color: black;
+    font-size: 2rem;
+    color: white;
+}
+footer p{
+    font-weight: bold;
+    color: white;
+}
+
+
+.fa-angles-up{
+    border: 1px solid red;
+    padding: 0.5rem;
+    color: red;
+    margin-top: 0.6rem;
+    margin-left: 18rem;
+
+}
+
+
+@media screen and (min-width:768px){
+    .gymheader{
+        height: 34rem;
+    }
+    .gymheading{
+        display: flex;
+        justify-content: right;
+    }
+    .mainheading{
+        margin-top: 0.5rem;
+        margin-right: 1rem;
+    }
+    .navlists{
+        padding: 1rem 0;
+        flex-wrap: nowrap;
+        margin-right: 1rem;
+        display: flex;
+        justify-content: space-around;
+    }
+    .navlist1{
+        margin-top: 1rem;
+    }
+    .navlist2{
+        margin-left: 1rem;
+        margin-top: 1rem;
+    }
+    .navlist{
+        margin-left: 1rem;
+        margin-top: 1rem;
+    }
+    .content h1{
+        font-size: 2.6rem;
+    }
+    .content a{
+        padding: 0.7rem 1.2rem;
+    }
+
+
+    .building{
+        display: flex;
+    }
+    .leftbox1{
+        margin-top: 8rem;
+        width: 21rem;
+        margin-left: 3rem;
+    }
+    .rightbox1{
+        margin-left: 0rem;
+        margin-top: 8rem;
+        width: 21rem;
+    }
+    .leftimg{
+        width: 9rem;
+        margin-left: 0.3rem;
+    }
+    .rightimg{
+        margin-left: 13rem;
+        height: 6rem;
+        width: 6.6rem;
+    }
+
+
+
+
+    .experience{
+        display: flex;
+        margin-top: 15rem;
+        margin-left: 2rem;
+    }
+    .leftbox2 img{
+        width: 21rem;
+        height: 25rem;
+    }
+    .rightbox2{
+        margin-left: 0.5rem;
+    }
+    .rightbox2 p{
+        width: 24rem;
+    }
+    .rightbox2 h1{
+        font-size: 2.4rem;
+    }
+
+    .lrcontent{
+        display: flex;
+    }
+    .left1 h3{
+        font-size: 1.4rem;
+    }
+    .left1 p{
+        width: 12rem;
+        margin-bottom: 2rem;
+        margin-bottom: 3rem;
+    }
+
+
+    .right1{
+        margin-left: 1rem;
+        margin-top: 1rem;
+    }
+    .right1 h3{
+        font-size: 1.4rem;
+    }
+    .right1 p{
+        width: 12rem;
+    }
+
+
+
+
+    .pwn{
+        display: flex;
+       
+    }
+
+
+
+    /* .benifits{
+        margin-left: 2rem;
+    } */
+    .box12{
+        display: flex;
+    }
+    .left{
+        margin-left: 2rem;
+    }
+    .right{
+        margin-left: 3rem;
+    }
+
+    .box34{
+        margin-top: 1rem;
+        display: flex;
+    }
+    
+
+
+
+    .newsletter{
+        height: 18rem;
+    }
+    .info p{
+        font-weight: 400;
+    }
+    .info h1{
+        margin-top: 4rem;
+        font-size: 2.3rem;
+    }
+    .info input{
+        margin-top: 1.5rem;
+    }
+
+
+
+
+
+    .timetable2{
+        display: flex;
+        margin-left: 2rem;
+    }
+    .maintable1{
+        text-align: center;
+        width: 45%;
+        border-collapse: collapse;
+    }
+    .maintable1 th{
+        background-color: black;
+        color: white;
+        padding: 6px;
+    }
+    .maintable1 .row33{
+        padding: 0px 25px;
+    }
+    .maintable1 .row5{
+        padding: 15px 0px;
+    }
+    .maintable1 p{
+        color: rgb(131, 116, 116);
+    }
+    .maintable1 td{
+        font-weight: 600;
+    }
+    
+    .maintable2{
+        text-align: center;
+        width: 45%;
+        border-collapse: collapse;
+    }
+    .maintable2 th{
+        background-color: black;
+        color: white; 
+        padding: 6px;
+    }
+    .maintable2 .fri{
+        padding: 8px 20px;
+    }
+    .maintable2 .row3{
+        padding: 16px 0px;
+    }
+    .maintable2 p{
+        color: rgb(131, 116, 116);
+    }
+    .maintable2 td{
+        font-weight: 600;
+    }
+
+
+
+
+
+    .BMI{
+        display: flex;
+    }
+    .leftbox4{
+        padding-left: 2rem;
+        padding-top: 3.5rem;
+        width: 55%;
+        padding-bottom: 3.5rem;
+    }
+    .rightbox4{
+        width: 45%;
+        padding-top: 3.5rem;
+        padding-bottom: 3.5rem;
+        padding-left: 1rem;
+    }
+    
+
+
+    .top3 h3{
+        font-size: 1.6rem;
+    }
+    .top3 h1{
+        font-size: 2.3rem;
+    }
+    .image12{
+        display: flex;
+        margin-left: 2rem;
+    }
+    .image2{
+        margin-left: 1rem;
+    }
+    .image34{
+        display: flex;
+        margin-left: 2rem;
+    }
+    .image4{
+        margin-left: 1rem;
+    }
+
+
+
+
+
+    .client{
+        display: flex;
+    }
+    .leftbox5{
+        padding-top: 4rem;
+        width: 50%;
+    }
+    .leftbox5 .mainpara{
+        width: 21rem;
+    }
+    .devideline{
+        margin-left: 9rem;
+    }
+    .rightbox5{
+        padding-top: 5rem;
+        width: 50%;
+    }
+    .rightbox5 p{
+        width: 22rem;
+    }
+
+
+
+
+    .blog{
+        margin-left: 2rem;
+    }
+    .top4 h3{
+        margin-right: 8rem;
+    }
+    .top4 h1{
+        margin-right: 8rem;
+        font-size: 2.2rem;
+    }
+    .lrcontent{
+        display: flex;
+    }
+    .rightbox6{
+        margin-left: 1.5rem;
+    }
+    .leftbox6 img{
+        width: 21rem;
+    }
+    .rightbox6 img{
+        width: 21rem;
+    }
+
+
+
+    .footer{
+        height: 17rem;
+        display: flex;
+        padding-top: 6rem;
+    }
+    .content1 h3{
+        font-size: 1.3rem;
+        width: 10rem;
+    }
+    .content2 h3{
+        font-size: 1.3rem;
+        width: 8rem;
+    }
+    .content3 h3{
+        font-size: 1.3rem;
+        width: 11rem
+    }
+    .content4 h3{
+        font-size: 1.3rem;
+        width: 13rem
+    }
+
+
+    .hrline hr{
+        width: 90%;
+        margin: -6rem auto;
+        border: none;
+        height: 1px;
+        border-radius: 2px;
+        background-color: #363434;
+    }
+
+    
+
+    footer{
+        justify-content: center;
+        align-items: center;
+        margin-top: 7rem;
+        text-align: center;
+        display: flex;
+        color:white;
+    }
+    footer span{
+        color: black;
+        font-size: 2rem;
+        color: white;
+    }
+    footer p{
+        font-weight: bold;
+        color: white;
+    }
+
+
+
+
+    .fa-angles-up{
+        border: 1px solid red;
+        padding: 0.5rem;
+        color: red;
+        margin-left: 49rem;
+        margin-top: -2rem;
+       
+    
+    }
+}
+
+
+
+
+
+@media screen and (min-width:1024px){
+    .gymheader{
+        height: 36rem;
+    }
+    .mainheading{
+        margin-right: 15rem;
+    }
+    .content h1{
+        margin-bottom: 2rem;
+    }
+
+    .leftbox1{
+        margin-top: 11rem;
+        margin-left: 4.5rem;
+        width: 28rem;
+    }
+    .rightbox1{
+        margin-top: 11rem;
+        width: 28rem;
+    }
+    .leftimg{
+        width: 15rem;
+
+        margin-left: 1rem;
+    }
+    .rightimg{
+       
+        margin-left: 17rem;
+        height: 8rem;
+        width: 9rem;
+    }
+
+
+
+
+    .experience{
+        margin-top: 17rem;
+        margin-left: 4.5rem;
+    }
+    .leftbox2 img{
+        width: 27rem;
+    }
+    .rightbox2{
+        margin-left: 2rem;
+    }
+    .rightbox2 .para1{
+        width: 30rem;
+    }
+
+
+    .left1 p{
+        width: 15rem;
+    }
+    .right1 p{
+        width: 15rem;
+    }
+
+
+
+
+    .pwn{
+        width: 70.2rem;
+    }
+    .leftbox3{
+        padding-top: 3rem;
+        padding-bottom: 3rem;
+        padding-left: 2rem;
+    }
+    .middle{
+        padding-top: 3rem;
+        padding-bottom: 3rem;
+        padding-left: 2rem;
+    }
+    .rightbox3{
+        padding-top: 3rem;
+        padding-bottom: 3rem;
+        padding-left: 2rem;
+    }
+   
+
+
+    .top h3{
+        margin-right: 2rem;
+    }
+    .top h1{
+        margin-bottom: 2rem;
+        margin-right: 2rem;
+    }
+    .box12{
+        margin-left: 1.5rem;
+    }
+    .left img{
+        width: 14rem;
+        height: 11rem;  
+    }
+    .box{
+        display: flex;
+        margin-left: -1rem;
+    }
+    .left3{
+        display: flex;
+    }
+    .box34{
+        margin-left: 1.5rem;
+        margin-top: 1rem;  
+    }
+    .right{
+        margin-top: -1rem;
+        margin-left: -4rem;
+    }
+    .right3{
+        margin-top: 1rem;
+    }
+
+
+
+
+
+    .timetable2{
+        margin-left: 4.5rem;
+    }
+    .maintable1 th{
+        padding: 12px 0px;
+    }
+    .maintable2 th{
+        padding: 9px 6px;
+    }
+    .maintable2 .lastrow{
+        padding: 5px 0px;
+    }
+
+
+
+
+
+    
+    .leftbox4{
+        padding-left: 2rem;
+        padding-top: 3.5rem;
+        width: 55%;
+        padding-bottom: 3.5rem;
+    }
+    .rightbox4{
+        width: 45%;
+        padding-top: 3.5rem;
+        padding-bottom: 3.5rem;
+        padding-left: 1.5rem;
+    }
+    .rightbox4 h2{
+        font-size: 1.8rem;
+    }
+    .rightbox4 input{
+        padding: 0.5rem 2rem;
+    }
+    .rightright button{
+        padding: 0.5rem 10.2rem 
+    }
+
+
+
+
+    .trainers{
+        margin-left: 1.5rem;
+    }
+    .top3{
+        margin-right: 6rem;
+    }
+    .top3 h3{
+        margin-left: 2rem;
+    }
+    .top3 h1{
+        margin-left: 2rem;
+    }
+    .allimages{
+        display: flex;
+    }
+    .topbox1 img{
+        width: 14rem;
+        height: 16rem;
+    }
+    .botbox1{
+        width: 14rem;
+    } 
+    .image34{
+        margin-left: 1rem;
+    }
+
+
+
+
+    .leftbox5{
+        padding-top: 5rem;
+        padding-bottom: 5rem;
+        padding-left: 2rem;
+        width: 50%;
+    }
+    .leftbox5 .mainpara{
+        width: 25rem;
+
+    }
+    .devideline{
+        margin-left: 9rem;
+    }
+    .rightbox5{
+        padding-top: 7rem;
+        
+        width: 50%;
+    }
+    .rightbox5 h1{
+        font-size: 2.2rem;
+    }
+    .rightbox5 p{
+        width: 26rem;
+    }
+
+
+
+
+
+    .blog{
+        margin-left: 3rem;
+    }
+    .top4 h3{
+        margin-top: 2rem;
+        margin-right: 10rem;
+    }
+    .top4 h1{
+        margin-right: 8rem;
+        font-size: 2.5rem;
+    }
+    .lrcontent{
+        display: flex;
+    }
+    .rightbox6{
+        margin-left: 2rem;
+    }
+    .leftbox6 img{
+        width: 28rem;
+    }
+    .rightbox6 img{
+        width: 28rem;
+    }
+    .leftside1{
+        margin-top: 1.3rem;
+        width: 4.2rem;
+        height: 4rem;
+    }
+    .rightside1{
+        margin-top: 1rem;
+        margin-left: 1rem;
+    }
+    .rightside1 h3{
+        margin-top: 0.5rem;
+        font-size: 1.5rem;
+    }
+    .rightside1 i{
+        font-size: 1rem;
+    }
+    .botpara{
+        width: 29rem;
+    }
+    .leftbox6 button{
+        margin-top: 1.5rem;
+    }
+    .rightbox6 button{
+        margin-top: 1.5rem;
+    }
+
+
+    .footer{
+        height: 17rem;
+        display: flex;
+        padding-left: 3rem;
+        padding-top: 6rem;
+    }
+    .content1 {
+        padding-left: 2rem;
+    }
+    .content2 {
+        padding-left: 2rem;
+    }
+    .content3{
+        padding-left: 2rem;
+    }
+    .content4 {
+        padding-left: 2rem;
+    }
+
+
+
+    .hrline hr{
+        width: 90%;
+        margin: -8rem auto;
+        border: none;
+        height: 1px;
+        border-radius: 2px;
+        background-color: #363434;
+    }
+
+
+    footer{
+        justify-content: center;
+        align-items: center;
+        margin-top: 10.5rem;
+        text-align: center;
+        display: flex;
+        color:white;
+    }
+    footer span{
+        color: black;
+        font-size: 2rem;
+        color: white;
+    }
+    footer p{
+        font-weight: bold;
+        color: white;
+    }
+
+
+    .fa-angles-up{
+        border: 1px solid red;
+        padding: 0.5rem;
+        color: red;
+        margin-left: 66rem;
+        margin-top: -3rem; 
+    
+    }
+}
